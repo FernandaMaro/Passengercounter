@@ -1,7 +1,7 @@
 body {
     background-image: url(https://imgs.search.brave.com/sumLxWaSlXsG5Qv5cuB5wb_JCFeyPW9dM130gGogQ9E/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/dmRsNnNhdnZtemQ1/MS5qcGc_d2lkdGg9/NjQwJmNyb3A9c21h/cnQmYXV0bz13ZWJw/JnM9MmZmZWM4M2Uw/MmU5MTJiNjk1ZTkw/NDAyNWQ0ODQ4NTJl/MzNmNmJmZQ);
     box-shadow: inset 0 0 0 1000px rgba(0,0,0,.10);
-    background-size: cover;
+    background-size: 100vh;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
     text-align: center;
