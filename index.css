@@ -6,23 +6,23 @@ body {
     font-weight: bold;
     text-align: center;
     color:aliceblue;
+    margin:0px;
 }
 
 h1 {
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin: 10px;
+    text-shadow: 0 0 5px black;
 }
 
 h2 {
     font-size: 50px;
-    margin-top: 0;
-    margin-bottom: 20px;
+    margin: 10px;
+    text-shadow: 0 0 5px black;
 }
 
 button {
     border: none;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding:10px 0px;
     color: white;
     font-weight: bold;
     width: 200px;
@@ -43,4 +43,8 @@ button {
 }
 #content-el{
     max-width: 85%
+}
+ 
+#save-el{
+ text-shadow: 0 0 5px black;   
 }
