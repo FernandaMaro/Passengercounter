@@ -33,14 +33,15 @@ button {
 #increment-btn {
     background: cornflowerblue;
     border-radius: 30px;
-    width: 70%
+    max-width: 60%
 }
 
 #save-btn {
     background: lightgreen;
     border-radius: 30px;
-    width: 70%;
+    max-width: 60%
 }
+
 #content-el{
     max-width: 85%
 }
